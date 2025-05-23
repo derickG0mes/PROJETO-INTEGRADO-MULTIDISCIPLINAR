@@ -9,7 +9,7 @@ Este trabalho apresenta o desenvolvimento de uma plataforma educacional digital,
 - @romioffice10
 - @jhenifer-as
 
-### Link das "Cartilha e Inforgráfico" e "ATIVIDADE DE EXTENSÃO"
+### Link das "Cartilha e Inforgráfico" e "Atividade de extensão"
 
 - CARTILHA E INFOGRÁFICO
     https://drive.google.com/drive/folders/1IcrqTeBDzowuzLpgWqEzn9kneFNAFKl9?usp=drive_link
