@@ -17,4 +17,6 @@ Este trabalho apresenta o desenvolvimento de uma plataforma educacional digital,
 - ATIVIADA DE EXTENSÃO
     https://www.youtube.com/watch?v=jtt2JwSqW9k
 
+Análise e desenvolvimento de sistemas - UNIP | JOVEM TECH
+
 Professor orientador: Prof. Wellington Fernando
