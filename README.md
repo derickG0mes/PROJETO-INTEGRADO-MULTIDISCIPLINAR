@@ -12,9 +12,9 @@ Este trabalho apresenta o desenvolvimento de uma plataforma educacional digital,
 ### Link das "Cartilha e Inforgráfico" e "ATIVIDADE DE EXTENSÃO"
 
 - CARTILHA E INFOGRÁFICO
-    [text](https://drive.google.com/drive/folders/1IcrqTeBDzowuzLpgWqEzn9kneFNAFKl9?usp=drive_link)
+    https://drive.google.com/drive/folders/1IcrqTeBDzowuzLpgWqEzn9kneFNAFKl9?usp=drive_link
 
 - ATIVIADA DE EXTENSÃO
-    [text](https://www.youtube.com/watch?v=jtt2JwSqW9k)
+    https://www.youtube.com/watch?v=jtt2JwSqW9k
 
 Professor orientador: Prof. Wellington Fernando
