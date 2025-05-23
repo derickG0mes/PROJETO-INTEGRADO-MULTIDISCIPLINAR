@@ -1,0 +1,328 @@
+{
+  "quizzes": [
+    {
+      "materia": "Matemática",
+      "nivel": "Básico",
+      "questoes": [
+        {
+          "pergunta": "1. Qual é o vértice da parábola da função f(x)=-x^2 + 4x - 3?",
+          "alternativas": [
+              {"letra": "A", "texto": "(2, 1)"},
+              {"letra": "B", "texto": "(-2, 1)"},
+              {"letra": "C", "texto": "(2, -1)"},
+              {"letra": "D", "texto": "(-2, -1)"}
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "pergunta": "2. Qual é a solução do sistema de equações abaixo?\n{x+2y=5\n2x-y=5}",
+          "alternativas": [
+              {"letra": "A", "texto": "x=2, y=3"},
+              {"letra": "B", "texto": "x=3, y=1"},
+              {"letra": "C", "texto": "x=1, y=2"},
+              {"letra": "D", "texto": "x=2, y=2"}
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "pergunta": "3. Qual é o 10º termo da progressão aritmética 2, 5, 8, 11, ...?",
+          "alternativas": [
+              {"letra": "A", "texto": "29"},
+              {"letra": "B", "texto": "30"},
+              {"letra": "C", "texto": "28"},
+              {"letra": "D", "texto": "27"}
+          ],
+          "resposta_correta": "A"
+        } 
+      ]
+    },
+    {
+      "materia": "Matemática",
+      "nivel": "Intermediário",
+      "questoes": [
+        {
+          "pergunta": "1. Dado o conjunto de notas: 6,0 - 7,5 - 8,0 - 5,5 - 9,0, qual é a média?",
+          "alternativas": [
+              {"letra": "A", "texto": "6,5"},
+              {"letra": "B", "texto": "7,2"},
+              {"letra": "C", "texto": "7,5"},
+              {"letra": "D", "texto": "7,0"}
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "pergunta": "2.  Uma função do 1º grau é definida por f(x) = 3x + 2. Qual é o valor de f(4)?",
+          "alternativas": [
+              {"letra": "A", "texto": "10"},
+              {"letra": "B", "texto": "12"},
+              {"letra": "C", "texto": "14"},
+              {"letra": "D", "texto": "16"}
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "pergunta": "3. Em um conjunto de dados com os valores: 2, 4, 4, 7, 9, qual é a mediana?",
+          "alternativas": [
+              {"letra": "A", "texto": "4"},
+              {"letra": "B", "texto": "5"},
+              {"letra": "C", "texto": "6"},
+              {"letra": "D", "texto": "7"}
+          ],
+          "resposta_correta": "A"
+        }
+      ]
+    },
+    {
+      "materia": "Matemática",
+      "nivel": "Avançado",
+      "questoes": [
+        {
+          "pergunta": "1. Qual das alternativas abaixo representa corretamente o conceito de derivada de uma função em um ponto?",
+          "alternativas": [
+              {"letra": "A", "texto": "A área sob a curva da função até o ponto."},
+              {"letra": "B", "texto": "A taxa de variação média da função entre dois pontos."},
+              {"letra": "C", "texto": "A inclinação da reta tangente à curva da função nesse ponto."},
+              {"letra": "D", "texto": "O valor máximo da função nesse ponto."}
+          ],
+          "resposta_correta": "C"
+        },
+        {
+          "pergunta": "2. Em uma distribuição normal padrão, qual é a probabilidade aproximada de um valor estar entre -1 e +1 desvios padrão da média?",
+          "alternativas": [
+              {"letra": "A", "texto": "50%"},
+              {"letra": "B", "texto": "68%"},
+              {"letra": "C", "texto": "75%"},
+              {"letra": "D", "texto": "95%"}
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "pergunta": "3. Qual é o objetivo principal da análise de regressão linear simples?",
+          "alternativas": [
+              {"letra": "A", "texto": "Determinar a mediana dos dados."},
+              {"letra": "B", "texto": "Verificar a normalidade da distribuição."},
+              {"letra": "C", "texto": "Estimar a relação entre uma variável dependente e uma independente."},
+              {"letra": "D", "texto": "Calcular a moda de um conjunto de dados."}
+            ],
+            "resposta_correta": "C"
+        }
+      ]
+    },
+    {
+      "materia": "Lógica de Programação",
+      "nivel": "Básico",
+      "questoes": [
+        {
+          "pergunta": "1. O que é lógica de programação e para que ela serve?",
+          "alternativas": [
+            {"letra": "A", "texto": "É uma linguagem usada apenas para programar jogos."},
+            {"letra": "B", "texto": "É o processo de memorizar códigos de programação."},
+            {"letra": "C", "texto": "É o conjunto de regras que ensina o computador a pensar sozinho."},
+            {"letra": "D", "texto": "É a habilidade de organizar e resolver problemas de forma lógica e estruturada, criando soluções para serem aplicadas em programas."}
+          ],
+          "resposta_correta": "D"
+        },
+        {
+          "pergunta": "2. Para que serve a função input() no Python?",
+          "alternativas": [
+            {"letra": "A", "texto": "Para exibir mensagens na tela."},
+            {"letra": "B", "texto": "Para encerrar a execução do programa."},
+            {"letra": "C", "texto": "Para receber dados digitados pelo usuário."},
+            {"letra": "D", "texto": "Para criar variáveis automaticamente."}
+          ],
+          "resposta_correta": "C"
+        },
+        {
+          "pergunta": "3. Como declarar uma variável chamada 'nome' com o valor 'Ana' em Python?",
+          "alternativas": [
+            {"letra": "A", "texto": "nome = 'Ana'"},
+            {"letra": "B", "texto": "var nome = 'Ana'"},
+            {"letra": "C", "texto": "string nome = 'Ana'"},
+            {"letra": "D", "texto": "nome: 'Ana'"}
+          ],
+          "resposta_correta": "A"
+        }
+      ]
+    },
+    {
+      "materia": "Lógica de Programação",
+      "nivel": "Intermediário",
+      "questoes": [
+        {
+          "pergunta": "1. O que é necessário em toda função recursiva para evitar loops infinitos?",
+          "alternativas": [
+            {"letra": "A", "texto": "Um parâmetro de entrada com valor zero."},
+            {"letra": "B", "texto": "Um retorno com valor nulo."},
+            {"letra": "C", "texto": "Um caso base que interrompa a recursão."},
+            {"letra": "D", "texto": "Um laço de repetição interno."}
+          ],
+          "resposta_correta": "C"
+        },
+        {
+          "pergunta": "2. Qual é a principal característica de um conjunto (set) em Python?",
+          "alternativas": [
+            {"letra": "A", "texto": "Permite acesso por índice."},
+            {"letra": "B", "texto": "Armazena pares chave:valor."},
+            {"letra": "C", "texto": "Garante ordem dos elementos."},
+            {"letra": "D", "texto": "Não permite elementos repetidos"}
+          ],
+          "resposta_correta": "D"
+        },
+        {
+          "pergunta": "3. Em relação à Programação Orientada a Objetos, o que significa encapsulamento em Python?",
+          "alternativas": [
+            {"letra": "A", "texto": "Dividir o código em funções reutilizáveis."},
+            {"letra": "B", "texto": "Criar classes com vários objetos."},
+            {"letra": "C", "texto": "Proteger atributos da classe usando underscores."},
+            {"letra": "D", "texto": "Armazenar objetos em listas."}
+          ],
+          "resposta_correta": "C"
+        }
+      ]
+    },
+    {
+      "materia": "Lógica de Programação",
+      "nivel": "Avançado",
+      "questoes": [
+        {
+          "pergunta": "1. Qual é a principal vantagem do uso de recursão em Python?",
+          "alternativas": [
+            {"letra": "A", "texto": "Reduz a necessidade de estruturas de repetição."},
+            {"letra": "B", "texto": "Elimina a necessidade de variáveis globais."},
+            {"letra": "C", "texto": "Aumenta a performance do código automaticamente."},
+            {"letra": "D", "texto": "Substitui todas as funções iterativas."}
+          ],
+          "resposta_correta": "A"
+        },
+        {
+          "pergunta": "2. O que é um gerador em Python?",
+          "alternativas": [
+            {"letra": "A", "texto": "Um tipo especial de lista que armazena dados permanentemente."},
+            {"letra": "B", "texto": "Um tipo de função que retorna um iterador e permite pausar sua execução com `yield`."},
+            {"letra": "C", "texto": "Um algoritmo que gera números aleatórios com precisão."},
+            {"letra": "D", "texto": "Um objeto usado para gerar exceções em tempo de execução."}
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "pergunta": "3. Em Python, qual a principal diferença entre uma função normal e uma função lambda?",
+          "alternativas": [
+            {"letra": "A", "texto": "A função lambda pode conter várias expressões."},
+            {"letra": "B", "texto": "A função lambda é mais lenta que funções normais."},
+            {"letra": "C", "texto": "A função lambda é anônima e definida em uma única linha."},
+            {"letra": "D", "texto": "A função lambda é usada apenas com recursão."}
+          ],
+          "resposta_correta": "C"
+        }
+      ]
+    },
+    {
+      "materia": "Cibersegurança",
+      "nivel": "Básico",
+      "questoes": [
+        {
+          "pergunta": "1. O que é um ataque de phishing?",
+          "alternativas": [
+            {"letra": "A", "texto": "Roubo de dados por meio de rede Wi-Fi pública."},
+            {"letra": "B", "texto": "Uso de pop-ups em sites legítimos."},
+            {"letra": "C", "texto": "Envio de e-mails falsos para enganar o usuário e obter informações confidenciais."},
+            {"letra": "D", "texto": "Invasão de computadores com força bruta."}
+          ],
+          "resposta_correta": "C"
+        },
+        {
+          "pergunta": "2. Qual é a principal função de um firewall?",
+          "alternativas": [
+            {"letra": "A", "texto": "Detectar e remover vírus no computador."},
+            {"letra": "B", "texto": "Proteger a rede contra acessos não autorizados."},
+            {"letra": "C", "texto": "Criptografar dados armazenados."},
+            {"letra": "D", "texto": "Realizar backups automáticos."}
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "pergunta": "3. O que é autenticação de dois fatores (2FA)?",
+          "alternativas": [
+            {"letra": "A", "texto": "Um tipo de antivírus"},
+            {"letra": "B", "texto": "Um método que requer duas senhas diferentes"},
+            {"letra": "C", "texto": "Um processo de segurança que exige duas formas diferentes de verificação de identidade"},
+            {"letra": "D", "texto": "Um sistema de backup duplo"}
+          ],
+          "resposta_correta": "C"
+        }
+      ]
+    },
+    {
+      "materia":"Cibersegurança",
+      "nivel":"Intermediário",
+      "questoes": [
+        {
+          "pergunta": "1. O que caracteriza um ataque de phishing?",
+          "alternativas": [
+            {"letra": "A", "texto": "Um tipo de vírus que se instala no computador sem aviso."},
+            {"letra": "B", "texto": "Uma tentativa de enganar o usuário se passando por uma entidade confiável."},
+            {"letra": "C", "texto": "Um firewall que bloqueia acessos externos."},
+            {"letra": "D", "texto": "Um tipo de backup feito na nuvem."}
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "pergunta": "2. O que é criptografia?",
+          "alternativas": [
+            {"letra": "A", "texto": "Salvar todos os arquivos apenas no computador."},
+            {"letra": "B", "texto": "Compartilhar senhas com familiares para evitar bloqueios."},
+            {"letra": "C", "texto": "Codificar dados para que só possam ser lidos por quem tem a chave de decodificação."},
+            {"letra": "D", "texto": "Instalar apenas um antivírus e desativar o firewall."}
+          ],
+          "resposta_correta": "C"
+        },
+        {
+          "pergunta":"3. Por que a autenticação em dois fatores (2FA) é mais segura do que apenas uma senha?",
+          "alternativas":[
+            {"letra":"A", "texto":"Porque exige reiniciar o computador a cada login."},
+            {"letra":"B", "texto":"Porque protege contra engenharia social."},
+            {"letra":"C", "texto":"Porque adiciona uma camada extra de verificação além da senha."},
+            {"letra":"D", "texto":"Porque desativa automaticamente os antivírus antigos."}
+          ],
+          "resposta_correta":"C"
+        }
+      ]
+    },
+    {
+      "materia": "Cibersegurança",
+      "nivel": "Avançado",
+      "questoes": [
+        {
+          "pergunta": "1. Qual é a principal função de um sistema de detecção de intrusos (IDS)?",
+          "alternativas": [
+            {"letra": "A", "texto": "Proteger fisicamente o servidor."},
+            {"letra": "B", "texto": "Detectar e alertar sobre atividades suspeitas ou maliciosas na rede."},
+            {"letra": "C", "texto": "Criptografar todos os dados de um sistema."},
+            {"letra": "D", "texto": "Realizar backups automáticos da rede."}
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "pergunta": "2. O que significa o princípio do 'menor privilégio' na segurança da informação?",
+          "alternativas": [
+            {"letra": "A", "texto": "Todos os usuários têm os mesmos direitos de acesso."},
+            {"letra": "B", "texto": "O acesso a recursos deve ser limitado ao mínimo necessário para a função do usuário."},
+            {"letra": "C", "texto": "Somente administradores têm acesso a informações confidenciais."},
+            {"letra": "D", "texto": "Nenhum usuário deve ter acesso à internet."}
+          ],
+          "resposta_correta": "B"
+        },
+        {
+          "pergunta":"3. Em uma análise de risco, qual das opções representa um ativo?",
+          "alternativas":[
+            {"letra":"A", "texto":"A possibilidade de um ataque DDoS."},
+            {"letra":"B", "texto":"Um antivírus instalado."},
+            {"letra":"C", "texto":"A base de dados de clientes."},
+            {"letra":"D", "texto":"Uma vulnerabilidade em um servidor web."}
+          ],
+          "resposta_correta":"C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2668 @@
+{
+    "usuarios": [
+        {
+            "id": "gAAAAABoLIhcoSInOF3FkCse6ajx0GIqzAIpLC5sQjRnByoiy7Cj2tgYtwXLP6yvqQgv9ZW3kPvYvU-u22tt8FFOgQS_B66TOw==",
+            "nome_usuario": "joao.silva",
+            "idade": "gAAAAABoLIhcvSvvnc-g_im2eFv77g7b6BVtoEfmBsNpR65kNyFymRAV6KKZjfsxhe4nqhhMnqt4KLG3Ipvo3TlIvgZ60_KaSQ==",
+            "senha": "gAAAAABoLIhcjrUsPIeti9uNZxcHQWroiZWvGe4G1pi0YnS6mRTnbN6oU7Q1H8bR-OHMmLFRUFm-YHosBN0LPr6hWCraninLjw==",
+            "nome": "gAAAAABoLIhcYXlZqGDNAv2ur4hVSw-rx-XpUrevRK5oDzLstzK8cjWgVqeydKOe3gq3uIBN2NQEv6-ybkm0g6gmQjjG-Q2gkw==",
+            "sobrenome": "gAAAAABoLIhcu1rZmFyzrlSoqPWV5kMjCNtkU1sTafTkdQ2e8uSsGRjsQ-8618YPJV5Vt5HowxxwW3A9JIWnL7EKE7NvM52B0A==",
+            "email": "gAAAAABoLIhc96sjyYGyT6yM8KtUlE-b-7cT0E2k2i1LMACdwYVb-CW1E2ujw2CiOWIGkzjADgk2MAXljtEZQ0u2rPfvtkQ43d4iA3S8GBgEn3whynD-adU=",
+            "telefone": "gAAAAABoLIhcpMfrd3eFFIz4fbXE93xdzBfNA5SP-ycXxzxNa3ORvMPS1fwz6c3b99dbJdw9ghChO-rbLtVYKvFoUPoLTKLCeA==",
+            "cpf": "gAAAAABoLIhcXIbxhFw8uqLiXyMCOCZtDjUP4Ln6fK_WdGPP5nQHJyCVh4GRPRKfsjpLIg0M9IaXm8GEbHIKyP6zTsdciGkdMg==",
+            "data_nascimento": "gAAAAABoLIhcLQBqXcj2y0j1FNGtoG5ZUqcY2RKcIcO6vfnL8lO_Hx5ih8_x0-b8vn-ljISF5h4YucPDJpDQUBA6CwNoaV6RZQ==",
+            "endereco": "gAAAAABoLIhcoYVCtUaEr02l3RA33sP4coWSJQVFSA-Cuk5z5NrIpnmuklqBtZCFxFW5v3RyV9hDvHOXiEKicegqhBsFFhte_QFV0mhMRlcoY7tjdukOyAgfAC3fh2M_4I1pUOYJCgl2",
+            "pontuacao": 18,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:13:47",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:14:23",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:14:50",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:16:31",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:17:15",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:17:45",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:18:47",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:19:14",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:19:41",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLIihYxOotPYrQ5ADoAqERnYlG9bNrL3xsDjJLjsJSRvT40C0-EBko-yFIikh7HHS6WfqNiPVHqskawwGdjJ0VRO9ng==",
+            "nome_usuario": "maria.oliveira",
+            "idade": "gAAAAABoLIihlx78oTNPyKpXqQRDPB6C6DmQRgfF8LuBfMldYaA6N4zzSrdnn0lfjufzzfvSR_xS-m2dbPdAQr77ugbLhhoy9g==",
+            "senha": "gAAAAABoLIih25_iBdTTjINbbDAPI5oEHKTKH3WVaH2w_maoQeKWv6qdYftgC4MxuZmPnTfzTu2DTiCdD76Vh9-_6MoikA6DpQ==",
+            "nome": "gAAAAABoLIihDPDX5WJ3BBkp9RxOM-qtO9mQRciYc3sO5cMX4vPqRkxymwG7sH_yJ7h_vl3_zh9nkVdvfZtkDriDEbuxZrljgw==",
+            "sobrenome": "gAAAAABoLIih9A6UiYhoPQj1Amf-y70GOpXKzD8peKbKAmRHLzXYnBN7TtTqS2ZtpwVlnVSqCRBX5XV6Rads9wq4rK29gwQPpg==",
+            "email": "gAAAAABoLIihX6aNXfYzqwLsUXtrbRBV7_MW-O3b4IrkVzM-oseiuBQ5GnyS7MHyKLeXaMF5LmT0SwHE-7iYkg-VsavZD7xG4UX1URIWjw0QkNbREXuFWDg=",
+            "telefone": "gAAAAABoLIihTtH1EhTauOG_9j6HUHOa4xRST0pbFJUV75WSvroj7YlUOUMQht3ruNR14ATuR_Lr-pwz3_iQT8L6rHRlaWYGXQ==",
+            "cpf": "gAAAAABoLIihMeFX7nhG2a7_GGEbXDFqDyYQ0HmuvXmqjg6BtzGiiBy9UtG0bI0ZA-VOXfwuf2forIxYQB0mkDBGH-VPF3nvVA==",
+            "data_nascimento": "gAAAAABoLIihzXIwRBej2rwSvms7Q0ZcMQPZY0YE4A83Ni-uNW8lS73q2Gb_ZldPoGg-QVnRa8hKc047VlGphPHvB0oWkpY1zg==",
+            "endereco": "gAAAAABoLIihfnFYokIkKz08z3oi_cBxJQ1oWZE04SPtrFsms18vOI5t617JSMloyWM7vObWIB9HmfMRlEkZCtUd9gYZ-SDYjwKcQYYLDF5pp82Z46CPMHm7ntl3sC_DteboZDWNkZ_j",
+            "pontuacao": 27,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:21:11",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:21:33",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:22:00",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:22:30",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:23:03",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:23:26",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:24:02",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:24:24",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:24:51",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLIjmCh9tzm2_IDgO5w75H4xfDJ3SajOm_-oMzdIGP6qEkbxSfSr4d1sWnk1Lo7iuX-gV75g3smpIT7gcCPUOwzOLnQ==",
+            "nome_usuario": "carlos.souza",
+            "idade": "gAAAAABoLIjm6U8TiAC9J7gliOL9GEZmRd9N4gmI3ds89lhoup7_5R87nBykgaspS7cT6CipmddwGosBPy3PTBGDjornAf9DDw==",
+            "senha": "gAAAAABoLIjmKS7vzXyFxeEAWGYEVbAiqPi8OFMc9ifV9zAGdF2GzUnonxXPg2AjCn9CHDd00-ZAwtk_YDQgNyoZWJHdPEY4Qw==",
+            "nome": "gAAAAABoLIjmfZi4H9JSAoM3-0isWqhY7ltjcdL4U4ukwa_n7CY3cxWa6U8faAkcnlHDs2bMkb6YXMr-Iuq2BIcutJ05OIKsEQ==",
+            "sobrenome": "gAAAAABoLIjmV0VKHrWygzi3PmHUWrj7vkUVg_0gZx5EV8UWGWtW56Ko1RAHn9XQN5KX-WGzMwym2yEyrIGz19InZTwMmR89Fg==",
+            "email": "gAAAAABoLIjmFmH8d84nvpwM3ZkFyiEnPr4ojOt2zOwa5jjZwFAqCkqLCSqvEXqMkUhf46H9w1GZdbIL8HaC-7rv4ibSl3nBKJR9uZ7VaC-pQHCEI4NxttY=",
+            "telefone": "gAAAAABoLIjmmN1LOgSA1uWDVY3Oz6nlpZ93M9LxKK9gRV1ssLsXhiMCEAe9U7QF3J-sp2TK77SkqEAVrxjRiDpla0RDgZ4fZQ==",
+            "cpf": "gAAAAABoLIjmkDJwjJBJU58cWlWKFPtyQW5-qrV5iWN6jePByEgcBWC2L9-LyVVT0dt8CcNFJruar_MT2othhAxPyzduaW57kA==",
+            "data_nascimento": "gAAAAABoLIjmoxlY0jD56YlmfgLDE6P0FblhJKiHvgV-cKzbGIdOKr8CYIJ-hMW7MNHYO-WKsV9iOJScUeXlLoc7h9PTwQ_pwA==",
+            "endereco": "gAAAAABoLIjmJlqgvmWHNudz53xgKBaoh7drwbXoQulAHVdlqtkmyl2qE_LtXXpekmIspu4aNwIJceXexxDveVb1ZbAdlw38cLejcWpumfd8FFV9Jg34utJ5W6wqy7CdWOrWQVHBzilC",
+            "pontuacao": 20,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:26:03",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:26:26",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:27:02",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:27:29",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:27:54",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:28:17",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:28:54",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:29:18",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:29:50",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLIkgOt1b-SmalM5FYrgaq5tOscXvFfR5webwXkacU4i8eHWn_tOgzqxbcH_a5IRr4MpXLREignBzzTZI79APooMopw==",
+            "nome_usuario": "ana.pereira",
+            "idade": "gAAAAABoLIkgve8MX7osd9VtaddZee1KNHLWusQBaZjFI4UaE1altldv-6P_QZruR7OGW470snkvEBxePENssWBTu8N6fiRhIQ==",
+            "senha": "gAAAAABoLIkg0TRU7bj-WZDG1cxO38evwRcK-5su4V51rzsEdO_u7UczqZQCOrklTQndsdlGwoDy4ioEJrtuyYNsWPPYlFvBPA==",
+            "nome": "gAAAAABoLIkgYIDVaONfLydo5mYDIKQm1oyWs2XSWZuSrhuAeGS7yTruOIQc9KM1xxXxFEcYehsXHzYalsM4EZlXybga35SUkA==",
+            "sobrenome": "gAAAAABoLIkgwiuqrJj8fG1kP6Jow3wb-u3zPeZ1Gvl8DVolXNehlZb6g-yz9IdUOes8ghdkxV9dayig8cIdvhfT9UM4VdM4GQ==",
+            "email": "gAAAAABoLIkgdO6mZmeoJz241iAaUQSHod_MJPMCkxHKV_jvSlT6-ZVHr1jWLcTcIxkQNjksholstFQ_YwVsOVlx1AodbZAENeX51GZ40xEDYpqc07VOnnc=",
+            "telefone": "gAAAAABoLIkgLLzVl-IE4v--6w7uWJOy4L8C5FKBVL2Igd66KBNhFBNEqUZiU_qYvjcYzccAHTEv5UzXDmGTemCtrZfZUTtI8w==",
+            "cpf": "gAAAAABoLIkgwt077drCUK9TrwsCQdlmxZGE4kzUQ3CykHpZQWC6KivdPb923BVg4pwzAnM-Ff7FOz-_Xu9UoTq--OfG5iCYGw==",
+            "data_nascimento": "gAAAAABoLIkgRcpA2AkkkeDVtICM3CZmuI6iwB_cR7QjSynPywxZzj2GsZBrK9A7nXPDztExwX-lQetT4OgNYgC_wml5WOKR3g==",
+            "endereco": "gAAAAABoLIkgv8j-6D-ZCCMZ7TY9Jumn6pBDBb-vP8vzSlT1HY-F0AMQo_hY5H7pqYa2o-HEpfo25Erth0hl5yLQwv3VwYIdVqlw1owc0B8KO-luKLuBvagD6Wm9qLB9-YjqlZVu4UU0",
+            "pontuacao": 11,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:30:42",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:30:55",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:31:10",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:31:27",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:31:44",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:32:03",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:32:22",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:32:42",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:32:59",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLImHx_cHUncTXF-7ntc7HNosZPFDuMSjjI_irKTMvafz3axoNvivqENXW4NkBxVXuG6PSeA8cG7_LcV2FuqGBa_j9g==",
+            "nome_usuario": "pedro.costa",
+            "idade": "gAAAAABoLImHdDUbZgpZQKlhP88NjlEvghmIbtjS-iXSxw00sSrbq9mun58diaGsfZCse-Zllnw52gqBHdKu3bbVSPwknfT5aQ==",
+            "senha": "gAAAAABoLImHf7eJtgG4spJs98YihPYGMQu3trirnkVLkecGhIj14ebbiyy4vxxce5ZY2rp9YqUX8_LAFf-rioO9jnvbyNy7Lw==",
+            "nome": "gAAAAABoLImHPiGPqNQMVCoIMLl3GJAMQG0TEKCmbJSNbGaDC5k-sTZNZnTjbY2ox0J1IuARW9v-fQ0nxPT2XaDm26ZEmy_3dQ==",
+            "sobrenome": "gAAAAABoLImHsdRed6XaRnn8cmY8W87QlP8zq0aIt22VeljGzEAf6OX-4jgQp04KyeZJFfklIYDgJWO3UxEmq2Z1iBnefWWHBA==",
+            "email": "gAAAAABoLImHYyTOqYpiV2ePKWgv4jJUzV70i7tEOvPwOfq_7UEtqrhlrQQqdTnarnKutmLKmJRuoOG_e4fd8PRBVEfQ61VKjdfkXIutL763Z4B9HMqlTXo=",
+            "telefone": "gAAAAABoLImHpOC3HA8w-XGDZkB-Lmx9-6xlpJWTIrzwBYQAMYXnprS3mKiwtDIvWrKmXVlVdKwsOm9tJBx33Z_HcqR_UhQ8Sw==",
+            "cpf": "gAAAAABoLImHP7aQ7CO83fTSFPF6bkX43jvxP7NSVJqeLxcNKT7QCGFddhJZKibLHt0CJ8ozM5fzDWZiNdTtGRNMYWBEQ8BsIA==",
+            "data_nascimento": "gAAAAABoLImH9EqKEWk1VVD4HTYg86w1YYneFeqfNcPdfveyUDB1GK9GDbgtXh83ROzh6XLN7WbzttfSKRqmmlrgr2GBtQiFEg==",
+            "endereco": "gAAAAABoLImHGCfa2GW9XsCTa7605_0fdEJ_UOR1UYmUTAdj1v3KdgQhq9ZS6Ng4HvqBSpinhfVzfXxwJONCU-XCssAdGBQhzQhBqtL2pvnw3pASXU5Nv6ci4ilE_uH_jUoQL4RD6jPs",
+            "pontuacao": 11,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:33:54",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:34:08",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:34:22",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:34:36",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:34:54",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:35:10",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:35:26",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:35:43",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:36:12",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLInGr616WGCwBvjO6GFelCKCrWNpt_Gv2RDZn1y7Qfhow5hdpFotS0uI-R0gqesDzivaXFzIw1dYIBL6h13_6BhaTA==",
+            "nome_usuario": "juliana.santos",
+            "idade": "gAAAAABoLInGjzsIM5tjXvXQLj3qa82f5SHhjaXm0CzwDlwBcIbGDRXFbTSFlDCcHxACv_ccMLjUDpPx3dArVvlekVT5BBLHyA==",
+            "senha": "gAAAAABoLInGBW6rbYXTp6qBs77POnq2GYPQ3wPx6B3CXOo8d5i24TWolpAOXTZtMfO3pv3EfDC1Bac2Ydp40ckcdm4VVZssHg==",
+            "nome": "gAAAAABoLInG2-LcW0EPqAoWaMtV8bVMWi3IX8C2OqsS9H5Y1mJDR8O_ZiQsrxboU7h4l4qo3EoMiAYLgZHQQNvN7fRYpt2SeQ==",
+            "sobrenome": "gAAAAABoLInGwLhHfbVvblLIwNoFT-vE-cYxyTTMsy-nIfc9m8BrL_vq4DHKgDHSlCfZlCfwR2DvX17xljyirOd8R5bSOEp2Hg==",
+            "email": "gAAAAABoLInGv6x0omMeuI2DlosTfnpNcpXlrPOmlo8kGv3jrB9eFdDY87blOFTP6JHFgHF5c4qAq3Cz_kQG2KSsMG-6nxWZqNopiEdsXn4y2XXoDlnLmGI=",
+            "telefone": "gAAAAABoLInGcI8A0dxHfzbYj5aHLYv7r1M02DshhFMlVdEj8P1i4cWDIQVJ8gl-3Jx_jXwtTDqIK-QW74nmMH6VHzNqJZBBAw==",
+            "cpf": "gAAAAABoLInGTWt3R_55brkKxuwgjHmKigfzT8bU_MVUf8jsh43rU2VszZFhdHQbCzZoGuCss7THLAz3s-tWF6Sl1hZN3nPLAA==",
+            "data_nascimento": "gAAAAABoLInG4stqONn5teoWPmFTmxOTQ22xxBFam5D-EcDsvDXPRtPdkzGu7C7sooYG4zEpV_2aFxSAfjwSOYe6pEDZ28idqQ==",
+            "endereco": "gAAAAABoLInGlU_n9KoQLIC2b4SWz9tsOQB-_T-8KrSbNeHpBgOBdjIRlrXKFtLBdbiskNZO0nYULf_MtSs1MnEe4pODbe9FeE0t6UoH3rps_AaGYqNG3ZRpcBh6rJaTbB0FKKNSI75h",
+            "pontuacao": 10,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:36:55",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:37:40",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:37:53",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:38:34",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:38:49",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:39:04",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:39:19",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:39:33",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:39:48",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLIoRUG4YssTSbe0R5__n16TeL2EnMacA7y3ckyiGBFh_QRs2diK0V218llHptLBD2WKrlz7qSo1bWGBt_zpqKL3U-Q==",
+            "nome_usuario": "marcos.ferreira",
+            "idade": "gAAAAABoLIoRpu9K_0zkJ_D2t2V4XIVLbKp-LTYUcdgVPP8Mj8r6eMrCBcDlDtfGbQp9X-ZnuNa6P77r-u0yTT1xcwLpG7Hpjg==",
+            "senha": "gAAAAABoLIoR2UWvGSxJu6jCjFNKLxoqA4smIZG8tof8mUd17zRdZN4TQhId0l4TU3GXjPYpk9qqe6ABap-p3IGZXK9EVxO7vA==",
+            "nome": "gAAAAABoLIoRQEdLEOGUySIjpOFMKyBVcRiRl9YG1LFQvPY2iyd5Ok15h_1JepmqhvSbNk-IdU9_jAHkPpFtFi0aAZFGRpofBQ==",
+            "sobrenome": "gAAAAABoLIoRVKPYSkfTIWc3XaZMmGz-d4ydNhxLR_qDbsX4rMlqEdeXkX4Sf9AmfcW31GApqJHbnF_WAAOMGZ7ukv8slPGTow==",
+            "email": "gAAAAABoLIoRTud0Go9JVuj_8UyjTuwdsSi9g1unHYaLJI2ULNvgIoiaRRQshTAaLPEfHj5ptj7uwRKB5sj-wLbQL2t4LNviTXN0Thnln4g7lx26rXK_j6c=",
+            "telefone": "gAAAAABoLIoRSIJrX77nke1PiAk3LGm_tA5hw_akCgQy-Bpf4Q3OK5HU7M7ORrSmQ49SW2lBbV3rJEPbEa_Qb9sAn1TCQHqZLA==",
+            "cpf": "gAAAAABoLIoRAN1iC51KANZdgTjFNE8QFwmwAA0D9wfmFtJwMsowXPYEDh3ugZhU4a72Ug4kHuK63zirrghJzwbBGZbbfyDFsw==",
+            "data_nascimento": "gAAAAABoLIoRXSchJVN--rsD0yoNBUUjTSeRyKRmgDn4nAXf8E6kahsV8UMUq3Dwe7Di-_rNHcm9yonsZdAJRWow7HPo7m3eOw==",
+            "endereco": "gAAAAABoLIoRnk8wbZWgLxHH2QTHWUl2OwxIsM1NuCT0xBlL6i6sUzZILV0Hop5_6SOTi6hG4jumzsderx0MGEMnGlQZvUpytzkTBhOHaw-WpCtq0r7lof_JY1R_rD13wDZI6pYJMXNn",
+            "pontuacao": 9,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:40:43",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:40:57",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:41:12",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:41:35",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:41:52",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:42:05",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:42:17",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:42:34",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:42:50",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLIpMu5JEhg14epCRojQifToURXKr6wTw4qESbmxsPGC95pzAR4Nenzp5F4fTLG2CA_onQzJLRj2Ed3hCfYqXJKZnaQ==",
+            "nome_usuario": "fernanda.lima",
+            "idade": "gAAAAABoLIpM46qwVVl92VhIVLuxhgk3CKGcxZILV511X2LzKi3qnq6SdHFCiqDkFQN2nUJKguw219b5ltWwPX0_7Y8Z0UjHKA==",
+            "senha": "gAAAAABoLIpMkFLDUtEhCOXbuYi6qi7VHJEVHUX-z7AhwAGDzEF8QFZwPa5FKQcltPr-UOxZxu8t5C25rM4qhuPAZ80Hwn0kpg==",
+            "nome": "gAAAAABoLIpMcryEyPqFeYrbDjtdmn8-fkkx-lbgs0Bn6qXyUKAr-f9Q_DPMErlbwK6qSKFd031QrNTyIB6JatFckxK2d7ZWIg==",
+            "sobrenome": "gAAAAABoLIpMN0oq7adgvPuJ4f12_B-asjUz_x5XKuhPqW8hBclHYMezJe6eIGBXMu9fWKjUw9bnpU2G_r8mG5EtxTj1NbX5xQ==",
+            "email": "gAAAAABoLIpMt3EKLC3OIMgyOA9wlhaNuxXxn7eDY7JxjwNmT7i0pgFhKFX3FlxsHQojIK-UvROr3bCVQpt8ULF8lt8NQstvnbA0_wo11GQyrXJ3VI-2J8g=",
+            "telefone": "gAAAAABoLIpMtkVBVwBIE5lt03RIzmpb7EqEcROlyaN0d7h1E7nNxFj8yvY2j314YAo2XTrWaNoLl0JNPfwfij23RjajgnimYg==",
+            "cpf": "gAAAAABoLIpMxYQaChxO3niknoKbNXcevhoBB0O0EWm4FbqNBzaQtP9rBDDkmyoFlxP4bMM0-WUX6Q2BrFABdOFfoQhi9xDGxw==",
+            "data_nascimento": "gAAAAABoLIpM14pkeKHKeY_OUgnURta3OptZnPjzIBknEepnU6QGxYJ0WbyrhsR9wHuXIILPZuSzKgBPD1GxOb5PlvvI_sUqwQ==",
+            "endereco": "gAAAAABoLIpMvbMG3zzKQw1hiLpDdI04dX39l15wfAYNkmT6knABXf_1JIbTVjLdw8uTfOaSqU1UglF2WGsOh1oKrNVHgcdfoY-dDr-f5-VmKnoXSK4jdwg2UJ6yMP0h0hHpizRQdQXa",
+            "pontuacao": 13,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:43:53",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:44:11",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:44:27",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:44:42",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:45:00",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:45:24",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:45:45",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:46:00",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:46:36",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLIqHogpU25avD37twEyzeripqG9zswgyIeocK47K_UbZlvcV-DUqgz_rVf3MEjh9jRzDy5q-0i6XkL74f04IVDFhkQ==",
+            "nome_usuario": "ricardo.alves",
+            "idade": "gAAAAABoLIqHUWBO6nemFdQJZ9vQglwTaBzBfIrANqvi0ORDxbd_xhyY4XJPKQ34phbwx1CDrtG9bwwJ9cOzdIQqOHz0WtVpZw==",
+            "senha": "gAAAAABoLIqHc8eeKpJn-1WAubD2ZM1i9CKDERvFYqTe4VB7ZqECGbK6eiKzh8B5mWVH7ccFfvc6ThIZVy720m3FZAKfuhiDow==",
+            "nome": "gAAAAABoLIqHXJmkqzcz2xs_VJkJa-zWOmSptuu1cJoD1upGwjU2etZjmJNEFch5srA4E5KNDAmBRWZOYiBrU2Odxfr5-aYTkA==",
+            "sobrenome": "gAAAAABoLIqHgQCn6nOsAEPff_HpDcRV9QgL1caxeLWgK2Hpauw35r_Ng2_IauUr9hpgs2fBfyTKU1Xb_2b6qi1aaEaGctKpkA==",
+            "email": "gAAAAABoLIqH6BAqfkP_HBoFNdNxRmM3jjklrEQ9aijFl12FW7yYD7CDoc1CY33wwMJNQiXdIwKETJtq43dJXvyv-Q-o4xsoVy7mW7QrLiz2e8CPnV-HFrg=",
+            "telefone": "gAAAAABoLIqHculWFaTTVOpwJOk_bpeWLtB6x7lWLPYCmSydnAnbJerT_YhFGb4cvVYJ8-Ieu72i1_3eY-FY9ty449Im2JmHCA==",
+            "cpf": "gAAAAABoLIqHf3KHlf4_IS1nPIMGUAQSWVNgruCU4jdrSCkNsgrTjjxB21YQ8Plei8e5r5OaTJWeNxVEHf4krOzOmWlG6J-C5g==",
+            "data_nascimento": "gAAAAABoLIqHTeLQKncaAjSdj1tr1Pj1zV0E1bAM4oS6K01t91UrBckglc7l4OWvuP_aAGfe9gXOMRiUqTMS3mnXTXpLNqEsEg==",
+            "endereco": "gAAAAABoLIqH5JAdg5sLXsmN9M8eb9KnDC3idUTS4XQa4cOKUQHHiv6UNrMpZ7p8xGmFCuDMtmFwwcqr_BMyc0nXQYQRABYQ_T_hyUQ5zrbn0ApUgUG94OYNo-lcG2byS6GEj38wcI3H",
+            "pontuacao": 15,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:47:53",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:48:08",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:48:24",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:48:38",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:48:55",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:49:24",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:49:40",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:49:59",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:50:17",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:50:42",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLIrBDK4_jVkBzAjSkqMSWhBXha-VG8MqgS9gP16ybfcf4F8LUG0ZEtCCkwO_rNeqScSf0tKhbv5pHzAVtRxUOglyUQ==",
+            "nome_usuario": "amanda.rocha",
+            "idade": "gAAAAABoLIrBy1Rz8KKqYrLRVnP7qMm-g4QEO-3e-05cRVMsP3uOegA4kLg2yCpLwhZWVWRuPZ_HkgvNOIqSMLVaQ_4yvN4EXA==",
+            "senha": "gAAAAABoLIrBBhg7TtkvzdO3mvMmyx9zfh_Z3S4PphLWY9yDvFFnTrzwMibQQhAkdVTpxCj3TGB-3wezW_fmyfmxoItXJlGiuQ==",
+            "nome": "gAAAAABoLIrB91ZMmP3RGPYdNlHAfGEm0khitDGfOTOwUqULNp20svLhdKpoOxKIRoEHALso0HH4F59qEpZIL2X8Yl8_a4LZ4A==",
+            "sobrenome": "gAAAAABoLIrBbrc1ExB-iu6f6RC5VbeErrShK2AaxXeq-GM12noh9hstY7Ir0gY-FexQL6dqdFk6sjAOBM2h_Vka2M7GsxJrVQ==",
+            "email": "gAAAAABoLIrBIhmDmznS3pbYHF_Z4HBD8s2nLd6rmhUp0rA87ixm9kzhDjH-zOSYUNKnEINIKALmzIUtdyxDmFL_Q3NDAhOIBbMBrw1HBYWFo6omHBsgqOs=",
+            "telefone": "gAAAAABoLIrBjsLcW1FxQ99-YAo76kgEF535F_I-lWyAaQnatLKszTpgHxucOA7uy3dHOBIu56CKdNLWN-crKO0bb9No2U85sQ==",
+            "cpf": "gAAAAABoLIrBC9gvNxPj0J5WXEtjv3wccdoQ1nz58KoGH0YOjt06IU5D7dAIGi4_0hUMRsDtDttBM-b7Uw7bzyBJQFPVsv_cHQ==",
+            "data_nascimento": "gAAAAABoLIrBAIBFIBSSIe_EdSmN1v8kcKsLq4PH49k2GR-F3ui81Smd5lFstotNVau7Gpbf9TMjPwnCynhWHgNTZuX-34TpTw==",
+            "endereco": "gAAAAABoLIrBcuYEKF6YNYJ15xopoa20m46xo3uFm910bGl1ZpnJJZT7qepsESpeb4MRqRlgNTiJMEFrahz7HgM0ENo75AMITzrHq4642DHEJ_QNlAhmcBU=",
+            "pontuacao": 11,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:52:03",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:52:15",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:52:27",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:52:57",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:53:27",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:53:39",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:53:53",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:54:16",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:54:34",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLIsHKsoL--FQR-FOuJmu5bd8X8v-B_GeEpknJtd8BC8PJ4QlbYUJy6rqU9E28jMtb-kGJJoK0JJcYl5clW3TuVL9Zw==",
+            "nome_usuario": "bruno.martins",
+            "idade": "gAAAAABoLIsHldq0RpKlWfqfHqQERHXzb2Q4Vaun7G63uFuO3Ew4gjqlWgTwRNAZVy1uKX2OcUhEz7G3ktMUDpTheRuxIzfRSA==",
+            "senha": "gAAAAABoLIsHEwF43lT_LIAkvvcseF3DmI1cYwVeJSlLkjB8epA7kENcJzhb22XrHXtwl5fwXdshs3ToVXk9kzyOm2YoYAUHjg==",
+            "nome": "gAAAAABoLIsHP0DvBUNaGpDuKLswn7ks7sN27o5KdEPobAPSPk7FV1zjEm5EUOFhvqgELoAc7MQH8GumBtcDETxeIo9NcAUkiA==",
+            "sobrenome": "gAAAAABoLIsHmHELL1g0wiQjwU4AXrCw6hPP8EbvOPIUYqeDtsufQK8lR0s8Cv3oYLzUAQRptfPVrUyGYcmeLhGKhFsYmCPneg==",
+            "email": "gAAAAABoLIsHlvLFntgd8L8_CHiiaDgFxdwmg2_EB5CvfGQPB12Tifc35Xvl2Wx1KoJz8i2GUWVNyE5RIjMV9UdXpMJxpT8ugSvZ1U2HT5AIHmYoLbVJvNg=",
+            "telefone": "gAAAAABoLIsHoqSIlbejus17LSdatIb6KGzteI8BekoRnHB9MG7ChJGDaZuZROnlhcy_bH7khyV5O1hHAqv46PJGsp-5WMyjNQ==",
+            "cpf": "gAAAAABoLIsHqP63vJgAnRw6AaJ6U9q4eUdy7vVAnmee_RUZZv6N4tvSvHYAvDJ0nZPX58dsbqQv9Hlo27L1BL8HtCzMJWkFGg==",
+            "data_nascimento": "gAAAAABoLIsHgcKMtGplwCE2bukniQU5KnAlsXRnXbaUMZgkPoSQWXzMzSWJj2qibNmSisLkMk3Xq9PnK8LpdX148ZspAXdKPQ==",
+            "endereco": "gAAAAABoLIsH9zRCCbnjsScKIM9VS7o0c9wtYw2zEhTmeM5_7qBwzhi86TkHgDQVOhrSWNLgTkT8Iyd5BIlBiv8DA0OpaSkvTkln9pa_8z9vhMlZ9JMzmFMGdhz6_RM3V2txIJrOtW7p",
+            "pontuacao": 15,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:56:29",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:56:50",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:57:09",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:57:25",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:57:40",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:57:54",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:58:07",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 11:58:24",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 11:58:59",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 11:59:17",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJFiaJNS6QiTuXgvyqz7VpR30TklYCExhqDiH182PQ3HhU1dfVzqAGTMz02ER5mPIPKyftvYW2TDMe98CX4IVGvVjg==",
+            "nome_usuario": "patricia.nunes",
+            "idade": "gAAAAABoLJFiA_vBZGQBkij4MvRV_1JvGlmQyM5tzRzwjnIJMXteR7102gggSpbPLIDSYhNrkkbE2I1dI586nG8JxBGEkGFUFA==",
+            "senha": "gAAAAABoLJFio5ALF8rJhNJaqH4BTItRrNTZ6sVQDm_oDGBnmDoW-qGfB9vKaPvwbeQaCRUOloVdz1p5w1Kh8_3YqS5TUWeP6w==",
+            "nome": "gAAAAABoLJFiSJAXj2UfzKWfa_YkUbjbp6ZKWivX3H6WReuT7vodpo0Rg8Pbl4DZ_SOA4RI5jBSQirw1KN2zLiaFkoE9Zd_cXg==",
+            "sobrenome": "gAAAAABoLJFiErHZcR_UsD25_p5PjC21oxcF0gQu1mK-8lnmSdV_dVg0Ohj-BeA2JEnRBEKmCqjkyTiEUFhuE62_rDb352Epcg==",
+            "email": "gAAAAABoLJFiYt7QzD5s4NEKNU5OZ8DGzpfItMjas4qJAf52TkgEprGoYD4P33KTZXNlzu1ZRMYtNxNBJJPQOcMJGs-_CfK3adw3z-PeyPPmJ6iaewcVmT8=",
+            "telefone": "gAAAAABoLJFiwWH6VQe0B9fCV3aDkx4cjIbcV0djmswv8R0D6fDnNL6FPwQYdzIDiIF_32xoU5Xkf18FtGZL7cl2GPC0WKdB_Q==",
+            "cpf": "gAAAAABoLJFiXqX1Hfjfq6rsYgoo89yT1fuTtTRTrQhRR6NHpZp1Q8kE8xIGDgw5Z249jT-iBwPOcG207aVZF-0yNiFIZ5A-GA==",
+            "data_nascimento": "gAAAAABoLJFiNfl7YkJeueRnuG-z_Z1TJjii7Un7eMu36Nl6fWGFoGHjtGL3MHlkD3buQzr4lb9JgGu8dbYj0FwxMTqEbBTXDg==",
+            "endereco": "gAAAAABoLJFiH32P_6T5dQa4Av9R9ZG3sI9aDRIdxGOX7iBGkrRzrcyZUXaAIktrG0M2PMC03NoViNmOgYXXQc-4ftPPKUR8QQHwLJQDFJT4LqxbfIpFsDc=",
+            "pontuacao": 13,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:00:03",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:00:19",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:00:35",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:00:49",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:01:03",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:01:26",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:01:47",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:02:05",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:02:28",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJHixDzIyCzdA0uMpuWSBQ5PpOt7LzYZFnLvbvGmRp9jXTGmHU41aOYqrS7MMepfb8vw6yADsu-cGSgrPARZD2ptGw==",
+            "nome_usuario": "rafael.mendes",
+            "idade": "gAAAAABoLJHi3e6k4SFjzfnlBsUilcitkH6LwWCr7yKQaz9fprSF8cDQ7FHRhTgN8zLqT3_52jo1DNH-Qh49mAG9XNfRaDsNiw==",
+            "senha": "gAAAAABoLJHierCmg9l2wTJYvrigg7Zi3odOMMmpyJqmDEbS5D30AaB4KJ4UM0v4Hh3DnPkXTpUc71j3uQZ6PynrDHffxQm_EA==",
+            "nome": "gAAAAABoLJHi4qL_2Gz9l4aWdAG0kn3Z0IwBmprHtLVPq4hwGocyJWY1cD44TkVbSvOVwrY6LfsL1cBJ4pimstI6vj5x74Ms6A==",
+            "sobrenome": "gAAAAABoLJHifDw20UUEkWukcdOTpSwUmdq1FI7AJ9U5RS8u4dkLZvGNWsAhq7vWfyLCtaRmC8_ZQgUAc5hL1vLNj6lxNXlIhg==",
+            "email": "gAAAAABoLJHiCeocIqPGfkAhaXsXgipzsZtjyYdr3t8a6YhR1ZF10Ww7P_34K7e_1iQhIYc2hraCs1QMdYWtIETHbP4Dt3L6qg6X2c9fTh4SM3bp4Bhh7ug=",
+            "telefone": "gAAAAABoLJHi-Hav0VbC0R55rqEraFkRousHpRfiGDZ5XxQi0K6g2jF9wk8jsBNQoQpufngYcRym3jiV7GL3bpeJUeoYR24x2A==",
+            "cpf": "gAAAAABoLJHiYimH9PAulMA_kylQfz5yV8fZuPeaKaRGX_k6yc4WIEGrF-J3gEXl14B6kMrmB5EGjOn1pENz-B9E12-yDcC-_A==",
+            "data_nascimento": "gAAAAABoLJHi5cUv87LDo9xz5BAR2-18w9YZo9UH9E1uuYisHErAayKJufJthDjJIH4FIOe_NOzvuomRvYyANwH407yZJeQk3w==",
+            "endereco": "gAAAAABoLJHiuW_vkktnHKGomtC8JHERvruk15HGulRTgt1fn7-2iZC6ve3qGgdow3uqZfc0GwmW8ZW9KE5z3HzyR4lNsEOkuIgVUTjP9eY6G6fDPyvb3kE3jnoKrItUapQn4DM3pQy_",
+            "pontuacao": 16,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:03:05",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:03:19",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:03:30",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:03:42",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:03:55",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:04:10",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:04:23",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:04:39",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:04:55",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJJGIeZxowhuT3sTFNAXDoqEv2reXNHfr5IHFdkmQAf0StxnUW4kn4cFKrFb0HYXxGi3jbLqh0cAJwiaaw4blYH87Q==",
+            "nome_usuario": "camila.freitas",
+            "idade": "gAAAAABoLJJGyIMPO1q4KkxwkqDsLV9iomD2GasWi-0LIuwnQzcaTvb9EZ7QRYA83VAQE5jYPErtXlW7J_vxfvhvCPxwMDRJuA==",
+            "senha": "gAAAAABoLJJG57kt43fUBo4X7DhDWot8Im_kSILZ4msnv0em5bxT5davKP4OgJ8wzqS_-1vd9_aHTsgIkwjFStSKlJGvj4RsaQ==",
+            "nome": "gAAAAABoLJJGjet2V7YT8pvQaQBP28mr9e-eWkiQ6jaKqxXKIPHF7acZWnNVtRXsUODotW7LrxQcOyg6i1xrNFaNT6GtWpCBvg==",
+            "sobrenome": "gAAAAABoLJJGQSDH0iumfFgeG_wKYfpvRJgAzUpbwBY8RGwqumIjm20j5l0Wgk9hErmZpn6eygjtBbHwubf49gPZGQmRsI9AAA==",
+            "email": "gAAAAABoLJJGHOXH1SMcd2Gf_sLz0g9fnjZFpzpr4Dv4Iyv80LYxrbfkmVGSGFfS0GgL4e_uecKrqSfL1-RJg6ZzyWQ4k2RVifoAZhf-Ydx6gE2F5CL7eo4=",
+            "telefone": "gAAAAABoLJJGGOQkrb7QWlE2RdlsjGmtO9Lm2mFmK-wbEEoYAlFVPYgcJIAILfgpRCV9eVTdQW_fG-OhgrBxFVTI-EdoBwwQMg==",
+            "cpf": "gAAAAABoLJJGPkbVMScmFOrgz9A8s7Zw2rHzy0h5gyrco1f9cH3o1PNAM3-Sp2w6VzPI77-ve9Ohco9IYogU0XMvfnUA5S5Cwg==",
+            "data_nascimento": "gAAAAABoLJJGBgQBmH2uNAu7qpUikYx_i7CT00oLOjSYoRtv4ggCwJZAIv1cMqZrxeOpx0rlWE8xwhdVhrJ9v6YwyX209iDmKA==",
+            "endereco": "gAAAAABoLJJGHC2JMgLbDFSVXx27YDsf9HU_zMKSSOIk6Ce-CgO1BiWfdjkWteml0UzYfLFhMjqV4GyVnR41ZgUH_B7NXAEP5syLpuE5nBIxtK9fHCrllIA=",
+            "pontuacao": 15,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:05:41",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:05:57",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:06:08",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:06:43",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:06:58",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:07:16",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:07:30",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:07:47",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:08:04",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJKDthwypfb3pAKaQ0Rd-BlDwM_fk-AYPqdV45VrKFXeV78Dx16h2PWpy8uN_dkyxaO8wo4wUFejTMZHEuJ5EsDFig==",
+            "nome_usuario": "gustavo.barbosa",
+            "idade": "gAAAAABoLJKDCwHc00PV-H4mfjQsSxilG9zQ5WUaFVdBsn9A4t9AXBf9hpmr6apwYKC6MXcWny_rLm2VPjt-wQMXyyfHIu600Q==",
+            "senha": "gAAAAABoLJKD9c2IXG2V6IIgTwAP74sSlmNnJXDomK75OgjFdnFlblsSEkIsF6ddkFdV7PZN7lPcTIR6xS3yFrAHkgsS8K9X4g==",
+            "nome": "gAAAAABoLJKDzyqQKfPtpgw4k5aDyGXIrpMb2CJLkMOPTgl7wDDR_gGU0hgtboYrYy2hGEZn0B00O9_q1lzbr1-P6pLJQh__qQ==",
+            "sobrenome": "gAAAAABoLJKD4UTdDBXjWFdD2ywdJR34KXUrUGe-lF2e7W_jSRdm9YgC55CY9shw-9LfO9jmofQz8gn60yxG4Cg4x21KZklcrQ==",
+            "email": "gAAAAABoLJKDZHP1WAPBZkUWn3kF1n3vyt4FcfsCid4X9GGMXgjNPOvdHptM96Dd4MU4wA9m3vtOsJthcIeGqRBBJ9m_cu24qoEcnX73LTU7gDxGdHr3BNE=",
+            "telefone": "gAAAAABoLJKDek4ng9Qc7LOO4TLLZrO5h2oDTrN50zXhSYcoMjH7zao6afflZmuJ2gAMTDcxkFJGNkmGvSpzETPhJuEWrrwnOA==",
+            "cpf": "gAAAAABoLJKDpPK5sqD5ptZXKK3gOhT7-c--VO3GofpjvjA9L0G1k5QSU4-qpjK8YcdzeFTopZjngah6MG53zy8HqBw4IcqK3g==",
+            "data_nascimento": "gAAAAABoLJKDcHGHG7BThFMBrzm5qWU6tJjD2_NiN-iOU2oPwcQyThx8adm6hwi-Ft3_v9clNnhOcn0uVCLD9Hs9EBpokM037Q==",
+            "endereco": "gAAAAABoLJKDpsWi43aMOvizsnizUJYbTJd3Tiw0pEKiQ6zovBV2sZcNMAgDAraw2kZ1W1KbxLi4ww1XytGpe008zFvCj4sKIpsQEuud9M5Kb6ox2CsbUUU=",
+            "pontuacao": 27,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:08:41",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:09:04",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:09:23",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:10:00",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:10:17",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:10:42",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:11:21",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:11:50",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:12:08",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJMzvEN5-rXuwSPVDWGZTFRa4lWOQg47oKNJuVqWBVWofMhcqMz52Adcj2jQdKGV0SgQ2J5kx_YYtCOj29WcDMN3Bw==",
+            "nome_usuario": "larissa.castro",
+            "idade": "gAAAAABoLJMzO9EUVaYwsdkO4TskToY84xMLmcXI3mMjT7bUsoGY2Xcc_H8-4N__rP1VTdt3o3OhaKZRwyqmpZtS79ZEmOgazQ==",
+            "senha": "gAAAAABoLJMz4SL-3LagY_-FaL3nUaUnN0se01EaH2IM5ytNuukh34oSAmYcKJedovAr0VsHZS3XcutNQv-V732SHCD1onsyeQ==",
+            "nome": "gAAAAABoLJMzi6hdd5qmc6Bt-CVxqjSiOpI0aR6X9IQDIOc_DO4WMnBFxKu1nrKJZD_CaqSvKzSq-tVHaW2iUNmF1rJVgkn-Uw==",
+            "sobrenome": "gAAAAABoLJMzW7tKKDJE91QZ6QuqpNBWcJBl_YrS43GTiph1HqM8fE3xfgPaDbtEJwdCaDt4lA8IDcXWON9EFpqc3pwPte-fzg==",
+            "email": "gAAAAABoLJMzNyQ4cfktycp-vPoD_xM2TTfA_imymNCnLTJ1yiOEpC1IQ4YH8i4thYV6Zj6_G4d8gPeeIHVLzS2b0Yvl66nnAh85DdlpBx7euYAF3ERhwLg=",
+            "telefone": "gAAAAABoLJMzxgz0hdT-NUBh3CKvDTz0bycUZz2C9ZYwcMgy3tr2Ezoz_ly0sQ2dKAui_FY2HyY4-SJO_4LeZwWYQMfUeASBGg==",
+            "cpf": "gAAAAABoLJMz7WGVtAkHMkZXjWDktbDAJ6N980jp3_AVwcqdbEUrashBc1tmRrPigEa14vCynYv0fJbceVbFEVjRt0nSdqEQ9Q==",
+            "data_nascimento": "gAAAAABoLJMz5OTAvW5yiJ8fKcM85XSZ2SpSJC3II8MwSztO-E0-NxcPFnI5jsv-XcmhC_cAVjaBjTSUfi80KTzOWZ84-l_Phw==",
+            "endereco": "gAAAAABoLJMzok56WBufVmnbDllZ3d2ceP1DdYUBNgiCvwkKFmM8ErmWLc4j1b7oxatz6Kcdd25poro2MpHo6ckjZShithwFDE184ZfSMvDREvIDUtomz_xIeBr1C9tofSU7f676hatL",
+            "pontuacao": 20,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:12:57",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:13:18",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:13:35",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:13:57",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:14:18",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:14:39",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:15:09",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:15:42",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:15:55",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJNxscVmX_v4tHJuNZjRk9Jm3tHmsVKQ40Vym0QZM6qiYKxgqmIGEaP66JQrT_pneY3kVqXS24nTlYH3lcptHB-zOw==",
+            "nome_usuario": "diego.ramos",
+            "idade": "gAAAAABoLJNxvI1rlLW3qaPtSZIowsE9Asza05FqW7CtJE6cV-ABILETNGZhzC1nLnF4YvvbSKniP7IVPb5KghQFeBekVN26uQ==",
+            "senha": "gAAAAABoLJNxVi0E3QvoW_yFpDzxTATD65BAlzUQMhHkr4xKxDJ15gJhQcfBwOQOFwJ0NMR63jWhwhfH8ZsqP9OU5GJqX-iufA==",
+            "nome": "gAAAAABoLJNxyIC_Ss3JOwudZorHsYB4iD2T7f9_09VWvpD7xH5aJ-nuQrPaXja3V2fvg144fgmLlOPZHjGfe3UcdrFtG9HGLQ==",
+            "sobrenome": "gAAAAABoLJNxFySOVWhcHx290PMNnUqbty51hfYNxQ0flDuIB869qkFbB0eKGr7lBQF9BFafQYaRtZLhwO1K8zDWt8suHkpP3w==",
+            "email": "gAAAAABoLJNxoJvqiWWnsyDYZQWVHNDXGeQg8n-peQPj-fxeVmyBcNugvRTiWnSj3Mym6fNAPkHDixWG0sfo4EtP3rsXhduhS0bh28-i7OtGKmf1GB_ojjA=",
+            "telefone": "gAAAAABoLJNxrS7QwGPKclp2RDkhhoKmz3FfuWR1sifu4BQ4Pz8dBpiId4iYk3UJC_hUlS2Gxn3CHEYU5i5LM0Pshpr1VjdB4g==",
+            "cpf": "gAAAAABoLJNxqad24FIlqJBW7HkdAk7uumeBhHi57-5epqHVN49MAz4SXlWr_ppARxZCZDFlDOXXgyRNOiFzdT1tg9B-kGKa9g==",
+            "data_nascimento": "gAAAAABoLJNxUqwV709TRuFkN5pjEPiEY8WuioHQTrZESqFBcN_N5dUS8r3IJfieDd3mJLqXMJjkvKbY_x0FCTQd_GGBq5STGA==",
+            "endereco": "gAAAAABoLJNxgjLnUN5YyuYkjXH1oR_H3tKh5JPYASv-iNV045IyV-QbzeHh_E5Ui23WXFBtvRshkqUF8cAY-Mw46H-XuxRYRlEWHnOBel6nimXHeJU5gfE=",
+            "pontuacao": 19,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:16:28",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:16:45",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:16:58",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:17:13",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:18:05",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:18:19",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:18:57",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:19:21",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:19:35",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJO3USPmxRdFKY_dZIXTQVkZ2-FLlEDOjuQkeCyPTgpXABJk784bEfuwEXypEQdaWvtL2WALspXcseGdzU40f2H2gg==",
+            "nome_usuario": "beatriz.almeida",
+            "idade": "gAAAAABoLJO3m006Z_PhWXuOzh7bRmPmAqCtb5mYQZ4LZCep2tmLFrbz_kc2oxOxk47n6aJPOCn__rQX69bo3bx9T5FI_Wa5Aw==",
+            "senha": "gAAAAABoLJO3RqwmXurpwwe8SGC99LoaB4W3rQeyYTUFVs1Oip_RgdDx69VoOjQ8U2iTFOe1JJWca2T1LEPZF9paaakVJyAo-Q==",
+            "nome": "gAAAAABoLJO3tbOxBrNP5CewlYIvPHBte_dix2MdI9akt0cV2Rb3jAetr7l4zkz_38zNblTi_beYwGj1DqfQ61_0htnyEu1wlQ==",
+            "sobrenome": "gAAAAABoLJO3oUZwhv6m1yinEi-dTDv0nuJnq8Q4L0c4GXGbMcXisRVwJSssPDSwnndAo97TiWRcrjcQEuipTvamOKs37ZOM5Q==",
+            "email": "gAAAAABoLJO3t1pVCwUlTPki1mojmF1X1v5viTitc4Ijwka1AD9xweWLhchXb1HgryIN297vdSSS1f0h51O0eUd_Dr0Lzo0tvfp14pFV3uQ2Ww3t81zVKhs=",
+            "telefone": "gAAAAABoLJO3rRsMHGCWgV5WjCRvjb-GfP7fDnooO-wPLXxsD8bzk-lQiDsOXJnLsjmJN076ufYOOTX0hWSaBF4ICZCNKmJ96w==",
+            "cpf": "gAAAAABoLJO3m1ZyeRPEhiV8z7TUgsI3lYwOSf-a4W7c5ePPDLNDaRFBkJr6cxPJgShxJFGjVVNSyHE23vIFXsvs2X56IQg-8Q==",
+            "data_nascimento": "gAAAAABoLJO3FVdX4Unog1LNK1zq3Y0iLWXfPw-65xftLKBuX9lr_kAb1d-K6_G3awO51iPcr8XmUyDVPQHvg27S0yBT2hroIA==",
+            "endereco": "gAAAAABoLJO3TDYyskuSf1mh8ebtsSjup_eWf9KSkGgiHncU7cmoFQfrRv98KYzculsUM9bEYfaUIvShtup0houOp2FdbNtgiJyF6Sf5PxTcOgS8xSvgAyAeFpqV_ur7OloibR8FV2fJ",
+            "pontuacao": 10,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:20:09",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:20:23",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:20:36",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:24:58",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:25:13",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:25:26",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:25:43",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:25:58",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:26:20",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJQC9vnHeDZDFTGiZCc-ihRa_5M2_1JTQ6QVtqUl4esIDJGb6DleLKCr2eHthkRREjbkuLArfQbzwxAjATWgUO4pkg==",
+            "nome_usuario": "lucas.goncalves",
+            "idade": "gAAAAABoLJQCT7Dn28gzt5KxcS5RywNtquIZNpRovyN98hcy661_KTVxeMG8GRrqpvas-dsDHPJqilYkjTlO4DW5IFDkr-Kbdw==",
+            "senha": "gAAAAABoLJQCaYpifCjXeBegbEBRZ-sDOV4kYPxbFcAUHpu_gBiou6m5CYyjhCxl40az6e1m2EtWX8yOWNYH-Sz9tynSM_C-Jg==",
+            "nome": "gAAAAABoLJQC_QpdevmVslljllWJZukf9-9Fd6kbCdCbon_XtVlRjvEnJhTSPOnYfAaI4VdYdCNUuy9H9IxVtA1Qwz5Ccerzew==",
+            "sobrenome": "gAAAAABoLJQCHllM6qpWlz4d2hJW7a0BFsziYQ0HMYEsJ6Uz0mz0kYAMHlZ4uAsU2jGkb9HNVOjiiHkYuhfny-_DrXzCCm4V0A==",
+            "email": "gAAAAABoLJQCrP3y__c-wQ2YcHqA6GiJPVFNbP2sC5LeKSOxks4PQ5t0kugII107TJ5mNVcfX2vzV4aMWR_iR4ldQVQRbOe3T_Rq-c4BiS4X_TTlsgtb-Mo=",
+            "telefone": "gAAAAABoLJQCJtqZg1trY1tsn_fTXFFEDeOkBGMvw8ydF-IhFtIZHLf5I3kkhh82iJtLHXQAK3iBgErXJkC-QFGIuu5Cgun_fg==",
+            "cpf": "gAAAAABoLJQCMnaaAUE-DOo7ii6-DrTp4-9-EKrsFXPsEn0fqLPHVOK5Z-N-41QhLhx2i2Wz5YYGGGtuNCIXV9cASjm5nH1Jkw==",
+            "data_nascimento": "gAAAAABoLJQChg5zJJRKAWbMdcArifDen-moKCepdMMRbslgzxSMVMY8wS-Fw2EHkxKdoqmhxcwshRXqLfp8GFUtDjCzd2Hg7w==",
+            "endereco": "gAAAAABoLJQC71vGTYDN1aX20XNfDClf5Kip31jWiqXwiRcxdJwKO1U4zsrqoFFhR7LImA7leyv9tHphi3jVfcb5gdaTwCPEAxugTBEzO0VdIFR7qnPk1kzRlMSdTOGCS--YaI786Y9c",
+            "pontuacao": 16,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:27:06",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:27:24",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:27:35",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:27:47",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:27:59",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:28:15",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:28:33",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:28:48",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:29:01",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJRvvf135tPr8qjBaNTaXf6sZb9rZ7ThnGqRpEEGkFQ6KEWo4X5jxwLmvb08aBYSnpQ4F4I6aouAFjsWXElwhDJlPg==",
+            "nome_usuario": "isabela.correia",
+            "idade": "gAAAAABoLJRvpW7qC8osxlJZdVqVI3dgpP-sEOs-1jRme41DjROwhRcdNiUQDaZseMtJsNXNBKbP-cm9cUQjhdeGcuPYupKxtQ==",
+            "senha": "gAAAAABoLJRvPT_AZ01-6sKYWgOPz93NCeGplfZIDI9Z8kjEMlsvpU404TEalkbwnmV-oONoHOuMvymKGt7RQVtrCXcCWmHYNw==",
+            "nome": "gAAAAABoLJRvB8F2fNT2cMoFwHm6pSI80FIfsETeaVISe83CR9-dyeg2MXyHwP2pg23ZVTL4fkUSzZccjvHRe71ZkeIbJP-AsA==",
+            "sobrenome": "gAAAAABoLJRv5jHGOM829gKQ8xgRhQGH2NIN1Z5MuWxnMe_18cWCIv28MXcP8Ipbiyt9XCO65CX0IP2SA__mBYuApU_oWnHpoA==",
+            "email": "gAAAAABoLJRvEreZugzqsPvy_vQXbtPD5flC0Lg8MJ8BuG5eWJEy9cG2JOVDoLN2PcSBac__R7NzW-u3oERD46fPbHRubF9TBKsaBskaF0Rf9vKjiUFOUgE=",
+            "telefone": "gAAAAABoLJRv0z9OsxHKcRm3E2dfkJSQ3aaHyIK7UtNk7GNyoFSDkYU8aUtZLj_KG5T0FnR2cHgV4bZEgLN8NvpTW7AWEw-JiA==",
+            "cpf": "gAAAAABoLJRv0Y7_CppjL28L4LFe8RNtN1C3pjAZeQ8-qhedxxdqyA-otSmGpkQ4ZPmUevxtFRQuifTQ0EntokSMaJZkjNTkFg==",
+            "data_nascimento": "gAAAAABoLJRvHkZLv3OE1Ki0vrUTaPRDvwm_0sxlOebUou_2rAmh0sXlC4SB0vTfkK7dfhl501g5bxV6k7-2FMIOx4geR2iEAg==",
+            "endereco": "gAAAAABoLJRvgLkHp7AORv-P3nNvkgocQEqmflnWE7VclwFkxnhlSG-6f8UF8FwobgELwH-BlGmdYB1v-U7WRmun2vlo8jVdC_AGPvnF0ggWfbUr1ndYjJhUK5OAYr_BS6Vqm-qzgtjq",
+            "pontuacao": 14,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:29:33",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:29:48",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:29:59",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:30:12",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:30:34",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:30:46",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:31:07",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:31:27",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:31:39",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJS2iMJr8JEuycKLt1cK_qnFRlyCQXjzfH0qGuayH5WOu-9JJ5bsWGosYbO7F3ncHw3RFWvqKlgu3TyBDps51ZFymQ==",
+            "nome_usuario": "vinicius.moraes",
+            "idade": "gAAAAABoLJS2HorbV2u-1csn6lj7qXIzXX2l9k0rH0UwdFBu0twilrfa4GKqSvetIvEhck_BJzKGdDC7NR0suMTTsBqlBjWgJA==",
+            "senha": "gAAAAABoLJS2-wvAGT_BS82ESCMpEBMlmckGvMbyuBwF7GfQIDGkLLVOSh8RIy-dE8ie2l5i1Dn-aZzS1mVpnMZUzSmooYHpCg==",
+            "nome": "gAAAAABoLJS2viWYMbNgDYrcF-GxXkk-K-udSSgNf1X4vEbYKNt9bAvRD3t7xklgj8uvZFSJBxykTnM7CLLfmaBISPonaOU84g==",
+            "sobrenome": "gAAAAABoLJS2w-_u4xPo9Ab0xeLWRnFgwP0bH-cb9zI1VRoFFgycNX7-CfgxWUxtDMjfdB4ShTGBrMR0h8WVEBDfCl7b5e6qqA==",
+            "email": "gAAAAABoLJS2DHwx0p3SsuM_iDW2iTPO8mUkm-rUoD776eV4lMgE75u5pmpJ3jU6dI3qJ7YB63mJbIv_0BYOao4_2D_TOEv8WCm1hPPCarDjlndULjkDlpc=",
+            "telefone": "gAAAAABoLJS2WSl8yyFljJxByrUGVjHmBycJh806Seu2CwdY4fzF0f9cZ0jDokX5IoZts_fuPIYB-UErI6N5p7Y2PbTvBue2vw==",
+            "cpf": "gAAAAABoLJS2cuhUCXwUwxL77Rlibhw4CfC28-5mRCgrhyRTiYM1IN-yyOLinIcUw3BQQDuytsmGI-H9jNlPDOrQfbQg6EnukQ==",
+            "data_nascimento": "gAAAAABoLJS22uVeZp02oxlIkTpZwhfpEUWIRrcbZaO1v0Y_eGcZhBMl7TpDPap55g6dASjLGgqMrHwyPTHEeOsuN9-mNxNUCA==",
+            "endereco": "gAAAAABoLJS2iq3Y-qyArbRpYtuVWd8OzyEsTLUoEm6lDg8bnVgAi47RH2LS6bpOrNEzauoGnCPsXGTP5BSfqTpOChrma-H9ivaedpDm322wcKgDLn9dcNrFwYxeGVMnn06GvqXlIacE",
+            "pontuacao": 15,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:32:20",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:32:32",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:32:44",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:33:01",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:33:13",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:33:29",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:33:50",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:34:08",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 13:31:35",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJT-ZffR9f1UQu34n4xATlejnTDyBt7bw4DJ2gEyAlpSxDjRTPPO8G_Srj-yql00cMwj1JJci5OBvPWEeNQ2wDXhvQ==",
+            "nome_usuario": "carolina.duarte",
+            "idade": "gAAAAABoLJT-_oIOJfjVrxi94kCua2X2RwUOf4RZACXObTTblo2FuBhbpgA_5ZPFf1LPRrVkJfjTzjg4EWaA2WTBaawBFB6O3g==",
+            "senha": "gAAAAABoLJT-XFw9Ah73GO55twhArXJL3UBJQer4RX9lmXSp5Twwu2yEO_rJgfkTq8qfC1eLQD3rCnZTD7fwve38CZQBB7Z4zw==",
+            "nome": "gAAAAABoLJT-Yk6ZScISl-KFjzDUE4zreZ1TYnUlOJaWk-T3n9ecGFHPzTFmhHwXfDpoJ3rsF2kPN9VNZtav4uo2Ni-lYBUM-Q==",
+            "sobrenome": "gAAAAABoLJT-AHGRf7L0yKJUvM9vuAPShn5Qcw2mHqph5cy0IKgpE1LyE2jQvQEoZ-ZeDL6DK-6s6kLwCWr-yL_seoPI7hJ6Mg==",
+            "email": "gAAAAABoLJT-sB7_LeyJrCRloRSKhyKCZ5Uh3Q3MAHwgwCC87sjBtogjJKetag349wFSj9hVwwIYGU9-c0-WzC01EaZqaMYpH-ho6StQGTsUt2MAcM3FXGg=",
+            "telefone": "gAAAAABoLJT-wme0S3EN2k7JlYBOp282RsaZGO2r0CwSOSDgR2Jo_LOnikUYdhZpwRW85ei2gTzUquXVJ8seH3RuGqgHLLL5mg==",
+            "cpf": "gAAAAABoLJT-nTw3rpNmhhRbyBhVZxclNVpT4OV2C6pUhhr7fg2nJeCqm8Adlyk7lrseeaihCX3PnozeJVRLQjhcd3pc0NO8eA==",
+            "data_nascimento": "gAAAAABoLJT-NG-YXI-zKi2P9B383OwqIql5BPovOi2EpyhgCDTmU6k-c9CKuzb_PrUFZSE0Q0dwj0Nd2Vqn4IaD3OONaxJ_RA==",
+            "endereco": "gAAAAABoLJT-oYfO5fhJYbimDkD4974Y-EBjfvwm2YXBP_UYdu8Fwxh7Nm4xU1KARyk1s7HQWGjiiR8Ahk0UyYJUNSOkc8uK4F9P1wKbRCQs67slGM7MG2JcV5vXoVQguJJcWDuy7gFY",
+            "pontuacao": 13,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:34:42",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:34:55",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:35:09",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:35:23",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:35:36",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:35:48",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:36:07",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:36:25",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:36:37",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJWJKehYXM4odtTAQIp1sBcQUqDrCSE1p59Vpswb7TXnVBlcjVJ3XhkjiPGmtMUB6LX_NXaGSsKWLnvTYZut0wDIFA==",
+            "nome_usuario": "eduardo.brito",
+            "idade": "gAAAAABoLJWJnhjxI2kWUsYaev3DQTBbO5lbkVzYKcWRVyOICRg2OyIyIgw1Z4P4yTmdexEPGXpKSsTE0_j4d7OhoT2kz15yqg==",
+            "senha": "gAAAAABoLKLLWb_W_7bx_AlWbD9YxGWrt-9-qwKpQRjEutZxdYR2JvuFjgblwCaPXmmj3dLwxArg5QNHcyezI40d-yxuMnF3WA==",
+            "nome": "gAAAAABoLJWJLcF5--f3f3j6Ivpe_QRq2gD5upiF-7V-phmYQOmkP2mQCouVqdXZ2DBfUlhhxZL3uN0OGYsevh0ca0Ox1zW42w==",
+            "sobrenome": "gAAAAABoLJWJDPftW2NZyGdgoMAcj9835uvqV5WAXZJn3iJAN2wH4ZQrzac5NfvYlxrE3qSx82SJeAQ8pgdggtCVC4Ti7IfYnw==",
+            "email": "gAAAAABoLJWJuMEg1guj2OqWsQYn2TNkCBUdaPD6HiapK7vBo9n3mY6ioiYoHHrsaAe3oLRxY1KKc0qkJhP3HOL2ivRHCX2kFYZElj9v9OPuhWxbs42q23I=",
+            "telefone": "gAAAAABoLJWJIOy_KhmNmEMKM9Jda0-VDExwZHTu5Yqvx5bcAmQSSsE33JbNMimuvgrN2Tivsb-EfY270B7PA8xEGXhF-iHB0A==",
+            "cpf": "gAAAAABoLJWJXIzW7uOLaIU1EgoWTX-ptKjoSq4U4qc4hLk5z6EXtilmB4rSDeHPgNxNlbBSZstsTpu99dci8V3-_oG5UBzecA==",
+            "data_nascimento": "gAAAAABoLJWJLTdKq1JgMeeR05NARcRHZoBCsbZssJUh5jyAs_r7PPkqZ9eJQzwDhJls7UBIkePcl1EK9nXlEAmqP7EXp6V1Hg==",
+            "endereco": "gAAAAABoLJWJK-0CWuIyLVRC1Z1WNHimi8_Vt5VRxwYUAOgPkPjFb_asJVI7RnqPIhQNH8lzks2xfLdtCjEPY6bW3z-3wyVBG1NdHgUBDDji3RMx07Natv12MdiMzdXqr25z5hKwXIZQ",
+            "pontuacao": 21,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "20/05/2025 12:48:51",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:40:42",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:41:11",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:41:38",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:42:21",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:42:36",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:42:59",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:43:20",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:43:42",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJX1yQzQvgF3sxHCHPOKcDQ0EhwOglmIqKjxkrke42GVuTRM_0rJgqG8mRw5wfz5_PROkVrAd8U2sLnCi6Q4PqX92Q==",
+            "nome_usuario": "gabriela.rios",
+            "idade": "gAAAAABoLJX1j0xTyn9bIXfJQViE3CboJPZSnIN5GUGcxhb_kR5R9aRZBylugwcv0hZNl5aXOglv6FBTZF9WcllIAML1F7VJmw==",
+            "senha": "gAAAAABoLJX1gdmDd8IDs_iwbBuYwesmx7oawKEfrIaDapDsO0kfkJaXq9hWMJaErcomrD0JBiJX9owf1ZnyOWCAXCLPx3Y8lw==",
+            "nome": "gAAAAABoLJX1OfT_8J6ZkhvVtGSdNKYhGHmR6VBu6HWaxebVVdZNCS38tltRy2A_aZcoCbImdMm_p5oTu82CveqxRnONvGWhCw==",
+            "sobrenome": "gAAAAABoLJX1jh2_9Zqgo4hmkUy_Kxv-W6ZAO38m67Bb488l6fpGmjLTn2tcj79pMB2MKIsu2uBwcBPyEucyZIcN15YGnYQDew==",
+            "email": "gAAAAABoLJX1PFJdBH4f1rBH-biZMNzgzGmiNxr7K4xB-1yxk8O3OdHWHJKURTLKx-GDfajpqYwoQiYn2D1NBBfMdc4BFNk5Az7er6F2KSECDv5-b09dwWk=",
+            "telefone": "gAAAAABoLJX1LpABCc30MCFbvh6mUg3eAuLXMQdtPLh3QDUKV7fFpAPL-z_kZFebFoMOJr3Tae00vfxEmihUh67-D_vf4yCrGQ==",
+            "cpf": "gAAAAABoLJX1fGixbMzrRcADfbQH1D8h9U0h6XVAb_AatUTs71GhFHraku9Yuckm84LI1AxvJozXrrmFmGusee84iYMZxa8syQ==",
+            "data_nascimento": "gAAAAABoLJX1G-WGXZqHOELZfOZs_MSD_vRTp7TT0g_r8ItkXpEAtN7yxPVq0L1bP99TXfFc_LHD9qpD16PIhJEjWMh1xFpUaw==",
+            "endereco": "gAAAAABoLJX1ZTczujvtqJcFn1eMk7cO-UBcSVAf_CXFqPi4DjeaNQYhf59QAlpTjDJ0NSwqyj74q3fs-fg0Qg8NruLlC_RFCmguLVApdmvN0nH1trFCqihaiD7YIRrLf-TGeNb4XPug",
+            "pontuacao": 22,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:44:19",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:44:51",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:45:13",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:45:53",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:46:09",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:46:27",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:46:47",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:47:19",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:47:38",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJdQVgd0Yf_l1JEUyhMWdt5ftWKvdvoFKueDukCLG7KKfsgPaWCCotigkEGZrxzOW3voXJ-YOgmRS8Py2CQJNCvdCQ==",
+            "nome_usuario": "thiago.nascimento",
+            "idade": "gAAAAABoLJdQ2njCzVNa8GNCFp4eVW86GFc2D4MXSeHZ-Nlj3WpyzYgDt6G7L6bIP60vTeFdzu7YaEtgtwJQVHAJy2jdsOYh4Q==",
+            "senha": "gAAAAABoLJdQTQtosAmcR9xLcghElwSTa7LDmP_7rIR4oCBDwXv-l54FQhDyaPwGqj_PeGlG9UKH_O2tCoI6DolrVyXN3TbVjA==",
+            "nome": "gAAAAABoLJdQhhdruhIzkMPfFsCZng2hi0U-6lDTAPwRYE1WUX1AHVJ_fUPxDnYstXUD8xsThxqW9YyKYYhfx2zC95k1sJh4Hw==",
+            "sobrenome": "gAAAAABoLJdQicb_nfKFHfXolCK4KWOmXRCtzm9jM0xZp45ro8F5scTniwP7EttGNveVUWyEFvfaXyiHkfBE-fdRacubWkCtZg==",
+            "email": "gAAAAABoLJdQcrlFNFhYnqxS-g8DHIK8J6zCu1LJK-9yx9lVaK3saz87IqnWxZoPiMhB8WhL4O8moxAcelrfFV_sHkNScI1ZwKwDpRhDanicOJR7T8UR5do=",
+            "telefone": "gAAAAABoLJdQj2hECfHn28KECfhCu-5eA6i-JWnq24ZaiAGfe7Ut0207rtYySPF_bgJPr9kBr1nFXwhisDLoffw1SHEVrNYrUw==",
+            "cpf": "gAAAAABoLJdQRQ51_zusgVNqCICS-eGv-eWj1X8ZhyPNUDzQusb2MNvLenl0ZJyEgwG2JpSVGwMIcn-cujvixY45kP81f4ytQg==",
+            "data_nascimento": "gAAAAABoLJdQb3-B30m63201A_fDToRiJZqetPFVuqaRp_iIApBi64d_aw50JKDkQQ4ZXZ8NE-fZsjb_o80UBiTmMSySyYaY6A==",
+            "endereco": "gAAAAABoLJdQ5fo6xj3vHE6Uqf67be_u9l6IlYdsvleGyrSGQP4wmNEtwMkkrawXy2VAuioHV02PbHdmegZG5voB20lFf1P0oQEtNrMdV307gOWuirEpX0k9okcozsGysOdE1XnLXhBv",
+            "pontuacao": 13,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:50:23",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:50:46",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:51:02",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:51:14",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:51:26",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:51:38",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:51:57",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:52:16",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:52:32",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJfCouFkmy56DQVL1ieFPMwjY5NElvMXtxmq1I0WEFbvWdTlfq-4IFwSImqXYDAitwzvMfakvJVEF_WzKk7BiNRfTA==",
+            "nome_usuario": "laura.pires",
+            "idade": "gAAAAABoLJfCEJfmMJO-AcMnfTNlrQKxl7qJUyVf9tGfNslhIy-e5KJHgwMRnba4Tvt-xN4_WH2DPfe38lxP7bwtkY7TjeOi8Q==",
+            "senha": "gAAAAABoLJfCFv3ejiXSdwWlr1sLpOZaEcOMnIyR6A480Qgxrq6i7vo0rgmeZX5AYseXq-G8-B0zY69dDBBaGvNR7rMz_C-izg==",
+            "nome": "gAAAAABoLJfCbowbapMeDCvDT1r2OvAXNg1xQIq-l6ON76hcl2UV5dnjdYBmKLI3E7hPSiYitieDCJbW_G2kAnoYw9f69E-3ZA==",
+            "sobrenome": "gAAAAABoLJfCPKe2FRxx7O3ZG5JdeW1cYzv0I1yn1kIPC8cX6scP5nslrBihGfUBXkkJeZrdow4DcoKJXGmipVUAwj2Aso1IDQ==",
+            "email": "gAAAAABoLJfC05OKBLzv2en3sYx99MmvT_S34m90af8vvc9q18InzUeOW_GpFm4mnh-uX0Lj-CLXBGfw4YPOBvJdk-UruCWWeqpjDV5nrx1S83P_ben4JDg=",
+            "telefone": "gAAAAABoLJfCmFzOPJI93MhfMBw5qDQ1A1V4wdRItJ8O_4gf1r6Gi-7UpjY-x9xPoCHnNLvGEM4QVhLxJ7LF_uxk7R9vzlcysQ==",
+            "cpf": "gAAAAABoLJfC_mUv8esnPtz15hL66-LxlWJQkAtVhXh_BQzR8AjY8hDYVaC_ZbeNIzME6E-wacVLkYfz5KkrBXilgA8xYo41VQ==",
+            "data_nascimento": "gAAAAABoLJfC4x9ZNx7wdYetF5NBKBdYDlPoLXzF_yrBNKa3_y6JqwD3rtjyj6CUM1zPudVzKG7utaR4eqn1z8coE7vlaTdbUQ==",
+            "endereco": "gAAAAABoLJfCpbNvaVBqgmbMpyIFT8FfKnALzpXv1LnskZqkhZV3sJi2fLLbZGGjMHS7eW1cy79Yzs1xZiaiI7xxXhFrkVvTRlFJ7A91mGUtMluN1GKAGueLTkq5mOQvT0SUhHn5r7a8",
+            "pontuacao": 27,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:55:15",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:55:34",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:55:54",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:56:16",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:56:39",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:57:04",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:57:24",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:58:13",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:58:35",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJhm8IHFsygkcSX6XlzNkYFe6043obflIXLTu0VXReaC8uiyyBDs448Wo8bMoUpLiJR9vjpvy5XrUIfJZ-m6UpLWJQ==",
+            "nome_usuario": "felipe.cardoso",
+            "idade": "gAAAAABoLJhmR3phH9nrzc20eAoH3UKxtjUZJJsCRbN7s-PgHcrLMsraQYuiEKEPr7U-k1eHZL4yeb6oaHG9L6QtwSJw3rWgQA==",
+            "senha": "gAAAAABoLJhmnVqOLf4qTu-tiz4fr1c993fzM3--joZIYbUw28GitoEBGA1nEyNf65TTMLVLXt5oLeAVN3WiHUiVXBuKmspp6g==",
+            "nome": "gAAAAABoLJhmzvthnTihUpu2rcmufw0uuSuw5X7pIOpbMO-feEqasy2cVJsYR3Pz887YMXzcuwxUpPsVgH4dLU-_uwzjSShxmg==",
+            "sobrenome": "gAAAAABoLJhmmKOVnTDvDV7Gs2kvO2-oiZoEDLXrYTVAfAqrwFZA-IG3pYyT7uFQvckjbiWOfc7z7ksEyVH1rhxal2fMHXt0_A==",
+            "email": "gAAAAABoLJhmHu1KAAWm-oPssRchtcUVRCx2e7FFZRuAQ9od7I_0Rxu43zPEhHwAV_h7A4Wak_QSJ0M_N7YA7Aq1LOD38Ps_B1GJj0732URkas-KUAIDFII=",
+            "telefone": "gAAAAABoLJhm4RbHy9D14osD-NVpMq9rWMtl6QtKt_2NiAExLvqIWTabd9uRYskhsX6pfWISfAHiJ3BaxYxwq9BdX7cgTn-jmA==",
+            "cpf": "gAAAAABoLJhm5lPHsB_XeSlWZ6QdFcfL52UITxLxc0Z9Ix-C2dT8w5JJEwj1XfcvSp8FkCEeVMI9fJ2licC_lnzRKfr4xV6wKQ==",
+            "data_nascimento": "gAAAAABoLJhmAbI1amIR3b-m2IOmqyDSmwGNz1Sm9s-svqXP_MwXRlJz6rEzuCeiOJCtucazBQZvsK52iwWh_1Q9XEJAS9LnqA==",
+            "endereco": "gAAAAABoLJhmBGe-1dlWol4ozL-eZNK2Jvzv2kMdswiOOAH4sNMY4a2LotsQpjUspHLF5noeSdUT4aviDhxLbWYmz8nRncOp91K9Ame2pJWR__FuPzTvs1SG8BWfun8gh2MErLaOjFp9",
+            "pontuacao": 26,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 12:59:09",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 12:59:28",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 12:59:50",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 13:00:13",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 13:00:31",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 13:00:51",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 13:01:10",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 13:01:31",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 13:02:00",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJjeGMgg3Hvj_vg4wCHqFv1_XFw6vZcemSEjFwDkkBJzYli6WCUU6s-hjb3uy4gcetnLTSMkY-59_crgKPkuwfkd-g==",
+            "nome_usuario": "renata.vasconcelos",
+            "idade": "gAAAAABoLJjeCDdjLbuIzJv8tYZp7T7N8hqRKQH8tW6HCn5mn1KB2x7Yu99GQ7aA4Wrh84_6U2kJtMmV3_Yh5E5hDy1eJ2Wzlg==",
+            "senha": "gAAAAABoLJjeSziuiyOOtYVNkq_hKWXyDLk2mD62sfm4AiQ9SEYI_myScSSMbeW6eHrGt8Nlk-Qt3GWMe2VPIZpg2YAjlRDRQQ==",
+            "nome": "gAAAAABoLJjeR_gk6HN8W2dMInAvxXHCr9MdDo9doTD8xlj3HzLDzO1CEtB1CAA1hgD4NCnSZbM5YtQ3YNiBgUl86g5NMF1RNw==",
+            "sobrenome": "gAAAAABoLJjeHzMUfmgqOKkvxI15izSM6Y4q3vsQQ0BquSAQ0Rt6LQSJbxvWJNY85yO96TTI9HyEiolXPirNFZddl10xQOhnSg==",
+            "email": "gAAAAABoLJjeArXPBJk868zC6iubWd4C6Vn6OfebCkuCsp-Mdv0Cbvj4yrZWsZFtFgYwgBTzrSjidhH5zrwLNo5RQmfjQRKclmARErO_TvdaaU7aNN6FbKg=",
+            "telefone": "gAAAAABoLJjeSHKSr9eu8sNgjB7_IzPnh0qIQKN3YZ304S_nHKBE85aVlDjNAfAI5EGAtd-gEr_051FsBpveoO0byqTfS-5BRw==",
+            "cpf": "gAAAAABoLJjeGwToeCfCqDjfRkKK8L1P_GB-wlm1ROI2UAZbcOqNM5sACbLSld_eYHdXStJyxJC5J6p2vSudtWQKrsygy_ve2Q==",
+            "data_nascimento": "gAAAAABoLJje8JdK5abk23xDLxz77gyu5sw-hTASC3cSboL_E9QHyrMm0i3Ts78jmlqAtfud7-YqAkd2Sum9DlYEQRFf28CThw==",
+            "endereco": "gAAAAABoLJjegGPd3D0vPurBiacV8JKFVMHgtloKTHN_HfCJtYZfpeuto03x0e23hg8zre5mdfuVZmrZ_Cy2KHHyhEWL4uqyFcYEDt4kN9LGRhORCZ7AsZ62hOZSiu8ctDWDa-eTeWxN",
+            "pontuacao": 19,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 13:02:53",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 13:03:14",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 13:03:30",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 13:03:49",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 13:04:03",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 13:04:16",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 13:04:40",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 13:04:55",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 13:05:13",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 13:05:31",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJk3l1iGlk61dx5JQhKYHXbeibXV5Ho-bdudN6OxRCc2NOFGgVCWa35ixEpXszjUnhbH5eJwggwEha25MHW9Gpaaxw==",
+            "nome_usuario": "daniel.torres",
+            "idade": "gAAAAABoLJk3aOIQFEI2icFhf044FmJ-iJF3d-7nrwOihefHZtZA9-oGs4KeyliLV_I6RdN20Dl1_e7o3IMYyD_a9rBVggtq2w==",
+            "senha": "gAAAAABoLJk3WmgpulWBhCbKpxEp7NeefdRN8hkAYBQUibEv8a-C63HXez2vikKEMhMyDnN3ZYGQExcr0VeZqFDvNX7N5_gviw==",
+            "nome": "gAAAAABoLJk3mYVZSOHK1VCpKAb7DkchysmUsOTvXQ0VTqbaFgxUB94IBHrWM_gWcFPPw8ZWb_IdzxN6U-51SvMYq0BSY55NNQ==",
+            "sobrenome": "gAAAAABoLJk3ASMAioJVieVy78RSsdVgx0zEgCVtiOjlN8sNCf5hTmn-LNqhs3-_Akkqzm2BxoWSOHyalBhiRPjkJtp5-4KU5A==",
+            "email": "gAAAAABoLJk32KuuwC2jdiSSn_j6T39nztvcIUqFpA8Kb9HqNzjc9JnC-xixGbaB_YpxlrnLOS7vVOYetN9rebZMYKZ-fCklZPgA_sFh6cVXw-eMI5Tvh6w=",
+            "telefone": "gAAAAABoLJk3S_-j8etwsOGzB6RtbNZrVY4YBAROob0__M42c2KHkr0vFE2iRr0d6ON3AKgrXyKjDoo9tauTLkGNSSsjj-aNNA==",
+            "cpf": "gAAAAABoLJk3gu2PQe3m8-vkqQvNDNn-uHWss4oCqpfnn-JKHI5AnTLZWa0MysRJRhXjJHf2lbuKL9joU2nU8Xz3G1e-GRpCww==",
+            "data_nascimento": "gAAAAABoLJk3JuqxhY4SNoHwzxtDfxA81jnLr_qHq4hVBNNZnUXKQGTfzlRej5x5gliBUQ6Uht_B5z2cvB3IIIix83ACExSG8g==",
+            "endereco": "gAAAAABoLJk3RTxvox2x5KmZkpTOiT_XBHE_wxRVYvL9L7zQ97lszw40K2UUxNkudX2CYxsnVo8fThp2ePhOQ-lpTzHtF-y2l6dggF3mzzIcAI1LQHRuOQF1Gdfq36dUU3H4j5CJOCEi",
+            "pontuacao": 14,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 13:05:57",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 13:06:10",
+                    "acertos": 0,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 0
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 13:06:20",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 13:06:32",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 13:06:43",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 13:07:01",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 13:07:31",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 13:07:46",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 13:08:01",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                }
+            ]
+        },
+        {
+            "id": "gAAAAABoLJl8IDnTMxhfqy4vMXBTILWWInWw8XwOZBD2Ua4E9tDT3VuKUsY3TqQMCNsXEdNKQISCUn2u-JEWFQtnKdYKgQO4Fg==",
+            "nome_usuario": "sofia.lima",
+            "idade": "gAAAAABoLJl8aG3-m_YRtLlyvwgsfOMi6Mj2YmOVzuLk33PfCK15AAbdYoCZ4MGn90ZVdGcfCNgZwccMQ2YrH5m295VH5oxYKA==",
+            "senha": "gAAAAABoLJl8g5oCDWjZG1GYos_nu3BYhrq59gvgJJMTl4Qii0t3MxOZVvJmgdmvZJli19WpdXUNaFe-eMzaD8_xizUWgjLioA==",
+            "nome": "gAAAAABoLJl8mcM94unLb0dGabz-lVWbWjuRAWX57FQmvAK-E4w0yMQGfk0EOPUsID0ji2WhzA70rV6BOZHSfDRFClvAT5fQ7w==",
+            "sobrenome": "gAAAAABoLJl8S8dvmvDe4EMS8ap3npO0jNi-e1wWLsuJWEF4UzwSNT6zlnBW5H-Z5WThcJ1OW_42EFtTqW5ipKUUc7tHuc3x9g==",
+            "email": "gAAAAABoLJl8jg3FPJ2bSlP4HxSN94wlPad9sMsvQmlyN89bvuiY1mKnlm2XRUuI3L0r9gYS6lI-_dypLWjWKnFp_90dZYWCrzLSVddROmsVGVCHq-ub6UM=",
+            "telefone": "gAAAAABoLJl8iITYcH5EZCaIKS_oplm4osHgFuu2Fe3jlx8w1ie7vqkLThscrmsY8NsFgO5A0IwIlwFi2UkzooV6TU40z6F5hQ==",
+            "cpf": "gAAAAABoLJl8dT5Aopj6rnFhtbFJCSQ9-5JW6OIxhjjIAXKOrWwIGn5Mnh-ggO8y4gliTeoZ5pRyOGv8UlBBlO4Q5La6N3EX8w==",
+            "data_nascimento": "gAAAAABoLJl8isn1oYktk7hl0PGbaeXTC5FHuGs3FsF1grXX35qXRTjbf55MiZyEXOgZO25Zo8g9DP9Am1T5l1r_8D8lNxg1YQ==",
+            "endereco": "gAAAAABoLJl8UoXoJvuz30Yrl74L8y_Gjfww9EvY9DP1EV6QQTvjkDB0Gwd2uVgWswt9lKkqTPx2jcHlC40P_NsSBY4PNNPvyAi6WnJwTUsVnDtwPfF-qoJNNuM9UTCRsBgxKDhaIqot",
+            "pontuacao": 24,
+            "quizzes": [
+                {
+                    "materia": "Matemática",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 13:08:35",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 13:08:53",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Matemática",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 13:09:06",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 13:09:30",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 13:09:43",
+                    "acertos": 1,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 1
+                },
+                {
+                    "materia": "Lógica de programação",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 13:09:57",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Básico",
+                    "data": "22/05/2025 13:10:18",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Intermediário",
+                    "data": "22/05/2025 13:10:37",
+                    "acertos": 2,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 2
+                },
+                {
+                    "materia": "Cibersegurança",
+                    "nivel": "Avançado",
+                    "data": "22/05/2025 13:10:56",
+                    "acertos": 3,
+                    "total_questoes": 3,
+                    "pontos_ganhos": 3
+                }
+            ]
+        }
+    ]
+}
